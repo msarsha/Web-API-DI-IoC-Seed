@@ -1,7 +1,7 @@
 # Web-API-DI-IoC-Seed
 Web API Dependency Injection and Inversion of Control Seed with JWT Authentication
 
-###What inside:
+###What inside:  :camel:
 
 * Web API 2
 * Dependency Injection
